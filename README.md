@@ -1,2 +1,2 @@
 # projects
-A list of all my projects I've worked on from second year onwards. 
+A list of all the main projects I've worked on for my uni courses. I have experience in C and Python. 
