@@ -1,3 +1,11 @@
+// Description:
+// The "Word Ladder Program.c" is a C program designed for solving word ladder puzzles. 
+// It involves finding the shortest path from a start word to an end word by changing one letter at a time,
+// ensuring each step forms a valid word. The program accepts command-line arguments for the start and end words,
+// the maximum number of steps (limit), word length, and the dictionary file. It includes input validation,
+// file handling, and functions for checking word properties to efficiently find a word ladder within the given constraints.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
