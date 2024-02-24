@@ -1,11 +1,3 @@
-/*
- * game.c
- *
- * Functionality related to the game state and features.
- *
- * Author: Jarrod Bennett, Cody Burnett
- */ 
-
 #include "game.h"
 #include <stdlib.h>
 #include <stdio.h>
